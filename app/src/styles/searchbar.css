@@ -1,0 +1,7 @@
+.search-bar {
+  width: 100%;
+  max-width: 600px;
+  box-sizing: border-box;
+  padding: 10px 11px;
+  font-size: 12px;
+}

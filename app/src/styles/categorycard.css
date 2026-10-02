@@ -1,0 +1,27 @@
+
+.category-card {
+  width: 100%;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  text-align: center;
+  background: #fff;
+}
+
+.category-icon {
+  font-size: 32px;
+  margin-bottom: 8px;
+}
+
+.category-content h3 {
+  margin: 0 0 6px;
+  font-size: 22px;
+}
+
+.category-content p {
+  margin: 0;
+  font-size: 16px;
+}
