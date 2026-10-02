@@ -1,0 +1,89 @@
+{
+  "categorias": [
+    "Abertura",
+    "Orixás",
+    "Caboclos",
+    "Pretos-Velhos",
+    "Baianos",
+    "Boiadeiros",
+    "Povo do Oriente",
+    "Marinheiros",
+    "Exus",
+    "Pombas-Giras",
+    "Pontos Diversos"
+  ],
+  "pontos": [
+    {
+      "id": 1,
+      "nome": "Ponto de Saudação ao Babalorixá e Ialorixá",
+      "categoria": "Abertura",
+      "letra": [
+        "Auê Babá, Babá é de Orixá",
+        "Auê, Babalaô, Babalaô é de Orixá",
+        "Auê, auê, Babá eu vou saudar seus Orixás",
+        "Com a força de Pai Oxalá, eu vou saudar seus Orixás"
+      ],
+      "origem": "saudação",
+      "observacoes": "Seção 1.1 da Apostila CEUG v2.0"
+    },
+    {
+      "id": 2,
+      "nome": "Ponto de Saudação aos Pais Pequenos",
+      "categoria": "Abertura",
+      "letra": [
+        "Papai Pequeno (ou Mãe Pequena) no terreiro do Pai Pedro [2x]",
+        "Papai Pequeno (ou Mãe Pequena), saravá seus Orixás [3x]"
+      ],
+      "origem": "saudação",
+      "observacoes": "Seção 1.2 da Apostila CEUG v2.0"
+    },
+    {
+      "id": 3,
+      "nome": "Pontos de Despachos para Exu",
+      "categoria": "Abertura",
+      "letra": [
+        "O sino da igrejinha faz belém blém blom [2x]",
+        "Deu meia-noite, o galo já cantou",
+        "Exu Matança que é o dono da gira [2x]",
+        "Oi, corre gira que Ogum mandou",
+        "",
+        "Exu Apavenã",
+        "A sua aldeia ainda é",
+        "Exu Apavenã",
+        "",
+        "Pega no pé, a encruzilhada já lhe chama [2x]",
+        "Pega no pé, a encruzilhada lhe chamou",
+        "",
+        "Xaponã, Xaponã",
+        "A sua aldeia é muito longe",
+        "Xaponã [2x]"
+      ],
+      "origem": "despacho",
+      "observacoes": "Seção 1.3 da Apostila CEUG v2.0, três cantos na sequência"
+    },
+    {
+      "id": 4,
+      "nome": "Ponto de Defumação",
+      "categoria": "Abertura",
+      "letra": [],
+      "origem": "defumação",
+      "observacoes": "Seção 1.4 da Apostila CEUG v2.0, letra pendente de transcrição"
+    },
+    {
+      "id": 5,
+      "nome": "Caboclo Girassol",
+      "categoria": "Caboclos",
+      "letra": [],
+      "origem": "louvação",
+      "observacoes": "Seção 12.2.1 da Apostila CEUG v2.0, letra pendente de transcrição"
+    },
+    {
+      "id": 6,
+      "nome": "Vó Catarina do Congo",
+      "categoria": "Pretos-Velhos",
+      "letra": [],
+      "origem": "louvação",
+      "observacoes": "Seção 19.1.1 da Apostila CEUG v2.0, letra pendente de transcrição"
+    }
+  ]
+}
